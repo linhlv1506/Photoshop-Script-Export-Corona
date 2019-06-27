@@ -1,0 +1,1 @@
+# Photoshop-Script-Export-Corona
