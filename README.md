@@ -1,3 +1,3 @@
 # Photoshop-Script-Export-Corona
-- Export layer to lua
-- Export icon corona
+- Export layer photoshop to lua
+- Export icon corona from image in photoshop
